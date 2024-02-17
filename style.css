@@ -124,6 +124,10 @@ section button {
         margin-left: 0;
     }
 
+    section {
+        margin-left: 0;
+    }
+
     .link-header {
         margin: 0 0 10px 0;
     }
