@@ -48,7 +48,7 @@ As tecnologias utilizadas foram: HTML, CSS, Git e Vercel.
       </td>
       <td align="center">
           <a href="#">
-              <img src="https://github.com/tiagorodri-dev/site-veterinaria/assets/68871083/3dc25635-cb4a-40d5-a891-53a327955fbf" width="110px;" alt="Texto Abaixo da imagem"/><br>         
+              <img src="https://github.com/tiagorodri-dev/site-veterinaria/assets/68871083/3dc25635-cb4a-40d5-a891-53a327955fbf" width="400px;" alt="Texto Abaixo da imagem"/><br>         
          </a>
       </td>
   </tr>
