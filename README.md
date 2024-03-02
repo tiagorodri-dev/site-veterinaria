@@ -29,7 +29,7 @@ As tecnologias utilizadas foram: HTML, CSS, Git e Vercel.
 
 ## 💻 Telas:
 <div>
-  <img src="https://github.com/tiagorodri-dev/site-veterinaria/assets/68871083/0846d1b0-b2ae-4c0a-a8c1-7e899be60eb6" width="200px">
-  <img src="https://github.com/tiagorodri-dev/site-veterinaria/assets/68871083/8eeec0a6-0852-46b0-be6f-8de3550329b6" width="570px">
-  <img src="https://github.com/tiagorodri-dev/site-veterinaria/assets/68871083/3dc25635-cb4a-40d5-a891-53a327955fbf" width="70px">
+  <img src="https://github.com/tiagorodri-dev/site-veterinaria/assets/68871083/0846d1b0-b2ae-4c0a-a8c1-7e899be60eb6" width="150px">
+  <img src="https://github.com/tiagorodri-dev/site-veterinaria/assets/68871083/8eeec0a6-0852-46b0-be6f-8de3550329b6" width="500px">
+  <img src="https://github.com/tiagorodri-dev/site-veterinaria/assets/68871083/3dc25635-cb4a-40d5-a891-53a327955fbf" width="120px">
 </div>
