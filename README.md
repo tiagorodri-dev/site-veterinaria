@@ -7,7 +7,7 @@ https://sitewecare.vercel.app
 <br><br>
 
 ## 🎯 Objetivo:
-<span>Demonstrar as informações do negócio aos clientes e público em geral.</span>
+<span>Treinar os conceitos organização de layout com Flex-box e Responsividade com Media Queries.</span>
 <br><br>
 
 ## 💡 Tecnologias:
