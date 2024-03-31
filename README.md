@@ -3,11 +3,11 @@
 </h1>
 
 ## 🏠 Aplicação:
-[Site](https://sitewecare.vercel.app){target="_blank"}
-<br>
+https://sitewecare.vercel.app
+<br><br>
 
 ## 🎯 Objetivo:
-<span>A aplicação tem como objetivo demonstrar as informações do negócio aos clientes e público em geral.</span>
+<span>Demonstrar as informações do negócio aos clientes e público em geral.</span>
 <br><br>
 
 ## 💡 Tecnologias:
@@ -20,9 +20,9 @@ As tecnologias utilizadas foram: HTML, CSS, Git e Vercel.
 </div>
 <br>
 
-## ✋ Pré-requisitos:
+## ✋ Pré-requisitos para uso:
 <ul>
-  <li>Ter acesso a internet;</li>
+  <li>Ter acesso a internet.</li>
   <li>Ter acesso a algum navegador de internet (Google Chrome, Mozilla, Edge ou qualquer outro).</li>
 </ul>
 <br>
