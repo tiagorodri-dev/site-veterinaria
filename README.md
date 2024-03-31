@@ -3,7 +3,7 @@
 </h1>
 
 ## 🏠 Aplicação:
-[Site](https://sitewecare.vercel.app){:target="_blank"}
+[Site](https://sitewecare.vercel.app){target="_blank"}
 <br>
 
 ## 🎯 Objetivo:
