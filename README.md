@@ -3,8 +3,8 @@
 </h1>
 
 ## 🏠 Aplicação:
-https://sitewecare.vercel.app
-<br><br>
+<a href="https://sitewecare.vercel.app" target="_blank">https://sitewecare.vercel.app</a>
+<br>
 
 ## 🎯 Objetivo:
 <span>A aplicação tem como objetivo demonstrar as informações do negócio aos clientes e público em geral.</span>
