@@ -7,7 +7,7 @@ https://sitewecare.vercel.app
 <br><br>
 
 ## 🎯 Objetivo:
-<span>Treinar os conceitos organização de layout com Flex-box e Responsividade com Media Queries.</span>
+<span>Treinar os conceitos de organização de layout com Flex-box e Responsividade com Media Queries.</span>
 <br><br>
 
 ## 💡 Tecnologias:
